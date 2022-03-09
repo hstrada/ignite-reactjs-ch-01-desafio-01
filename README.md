@@ -9,7 +9,7 @@ to.do list
 
 This project was developed using the technologies bellow:
   
-### Mobile
+### FrontEnd
 
   - [ReactJS](https://pt-br.reactjs.org/)
   
