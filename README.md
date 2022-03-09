@@ -32,13 +32,16 @@ To clone the project, use the commands bellow:
 
 ```bash
   # Clone the repository
-  ❯ git clone https://github.com/hstrada/ignite-reactjs-desafio-01.git
+  ❯ git clone https://github.com/hstrada/ignite-reactjs-ch-01-desafio-01.git
 
   # Enter directory
-  ❯ cd ignite-reactjs-desafio-01
+  ❯ cd ignite-reactjs-ch-01-desafio-01
+  
+  # install
+  ❯ yarn
   
   # run
-  ❯ yarn dev
+  ❯ yarn start
 ```
 
 ---
